@@ -1,2 +1,2 @@
-<h1 align="center" text-decoration="none">I am Arumugam</h1>
+<p font-size="220%">I am Arumugam<p>
 <h3 align="center">A network engineer from India</h3>
