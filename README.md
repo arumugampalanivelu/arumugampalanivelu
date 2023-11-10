@@ -1,3 +1,13 @@
-<img src="photo_2020.jpg" alt="my pic">
-<h1 style="text-align:center;">Welcome</h1>
-<p>I'm <strong>Arumugam</strong></p>
+[![Image description](https://example.com/image.png)](https://example.com/image.png)
+
+**Header**
+
+i am Arumugam
+
+**Paragraph**
+
+a nerwork engineer
+
+**Image**
+
+[Image description](https://example.com/image.png)
