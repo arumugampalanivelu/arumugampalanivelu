@@ -1,10 +1,12 @@
 <h1>Greetings</h1>
+<p>
 ├──name/
-│   └──<p>I_am_Arumugam_.txt</p>
+│   └──I_am_Arumugam_.txt
 ├──about/
-│   ├──<p<p>I'm_a_Linux_enthusiast,_who_love_to_improve_my_knowledge_in_any_tech_based_topics_.txt</p>
+│   ├──I'm_a_Linux_enthusiast,_who_love_to_improve_my_knowledge_in_any_tech_based_topics_.txt
 └──skills/
-    ├──<p>Networking_.txt</p>
-    ├──<p>Linux_Administration_.txt</p>
-    ├──<p>Docker_.txt</p>
-    └──<p>Git_.txt</p>
+    ├──Networking_.txt
+    ├──Linux_Administration_.txt
+    ├──Docker_.txt
+    └──Git_.txt
+</p>
