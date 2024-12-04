@@ -1,5 +1,4 @@
-<h1>Greetings</h1>
-<p>
+**Greetings
 ├──name/
 │   └──I_am_Arumugam_.txt
 ├──about/
@@ -9,4 +8,3 @@
     ├──Linux_Administration_.txt
     ├──Docker_.txt
     └──Git_.txt
-</p>
